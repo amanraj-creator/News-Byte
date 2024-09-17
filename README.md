@@ -3,14 +3,10 @@
    
   💡Built using HTML, CSS, and JavaScript, this project provides a user-friendly interface for fetching relevant news articles.
  
-  📌Menu allows users to choose a country of interest, and upon selection, the app dynamically retrieves and displays the latest news articles 
-    for that specific region. Additionally, the user can open articles in a new tab for a more detailed reading experience.
+  📌Menu allows users to choose a country of interest, and upon selection, the app dynamically retrieves and displays the latest news  
+    articles for that specific region. Additionally, the user can open articles in a new tab for a more detailed reading experience.
 
    
-
-                                                    
-                                                     
-                ![Screenshot (77)-removebg-preview](https://github.com/user-attachments/assets/46e36324-3dd7-410e-8123-b8059649ca3d)
 
                                                       
                                                       
